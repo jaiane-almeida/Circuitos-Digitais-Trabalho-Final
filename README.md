@@ -3,6 +3,6 @@ Trabalho final realizado na disciplina de circuitos digitais, na Universidade Fe
 
 Implementação do jogo do resta 1, utilizando a lógica de cirguitos digitais pelo sotware WiredPanda
 
-Vídeo apresentando todas as partes lógicas:
+Vídeo apresentando todas os circuitos:
 
 https://www.youtube.com/watch?v=H5inykf3wz8
